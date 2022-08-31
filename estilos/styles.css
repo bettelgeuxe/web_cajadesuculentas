@@ -1,0 +1,128 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+header{
+    background-color: #0B373E;
+    
+}
+
+
+.bg-light{
+    background-color: #0B373E !important;
+    
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.menu {  
+    display: inline-flex;
+    flex-direction: row;
+    width: 940px;
+    position: relative;
+    margin: 0 3%;
+    
+}
+
+nav{
+    position: relative;
+    
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+    
+}
+
+nav a{
+    
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.logo{
+    height: 80px;
+    padding: 2%;
+    
+    
+}
+
+.iconos{
+    margin-right: 3%;
+}
+
+.iconos a i{
+    margin-left: 1rem;    
+    color: white;
+    font-size: x-large;
+
+}
+
+.amarillo{
+    background-color: yellow;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.titulo{
+    color: #198754;
+}
+
+.titulo-intermedio{
+    color: #198754;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+}
+
+.fondo-tarjeta{
+    background-color: rgb(207, 245, 245);
+}
+
+.tarjetas-genero{
+    width: auto;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.tarjetas-genero li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.genero-descripcion{
+    font-size: 18px;
+}
+
+.img-genero{
+    width: 200px;
+}
+
+footer{
+    padding: 3%;
+    background-color: #0B373E;
+    margin-top: 5%;
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+    color: white;
+    
+    
+}
