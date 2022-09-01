@@ -84,8 +84,11 @@ nav a{
     padding: 30px;
 }
 
+.blog{
+    background-color:lavender;
+}
 .fondo-tarjeta{
-    background-color: rgb(207, 245, 245);
+    background-color:white;
 }
 
 .tarjetas-genero{
@@ -125,6 +128,17 @@ nav a{
     background-color: #0B373E;
     color: white;
 }
+
+
+.recien-llegadas{
+    padding: 5%;
+    background-color: lavender;
+}
+
+.mas-vendidas{
+    padding: 5%;
+}
+
 footer{
     padding: 3%;
     background-color: #0B373E;
