@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    background-color: #83e48348;
     
 }
 
@@ -115,6 +116,15 @@ nav a{
     width: 200px;
 }
 
+.boton{
+    background-color: #2BA57F;
+    color: white;
+}
+
+.boton:hover{
+    background-color: #0B373E;
+    color: white;
+}
 footer{
     padding: 3%;
     background-color: #0B373E;
