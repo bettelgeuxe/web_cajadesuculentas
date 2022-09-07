@@ -4,6 +4,14 @@ body{
     
 }
 
+@font-face {
+    font-family: buttercup_sample;
+    src: url(fuentes/buttercup_sample.ttf);
+}
+
+.fuentebut{
+    font-family: buttercup_sample;
+}
 header{
     background-color: #0B373E;
     
@@ -137,6 +145,12 @@ nav a{
 
 .mas-vendidas{
     padding: 5%;
+    background-color: whitesmoke;
+}
+
+.sus{
+    padding: 2%;
+    background-color: #83e48348;
 }
 
 footer{
